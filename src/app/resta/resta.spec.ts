@@ -20,6 +20,6 @@ describe('resta', () => {
     expect(resta(2,-1)).toBe(3);
   })
   it('it should rest the negative numbers', () => {
-    expect(resta(-2,-1)).toBe(1);
+    expect(resta(-2,-1)).toBe(-1);
   })
 });
