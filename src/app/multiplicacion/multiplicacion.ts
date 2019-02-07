@@ -1,3 +1,3 @@
-export function resta(num1,num2){
+export function multiplicacion(num1,num2){
   return (num1 * num2);
 }
